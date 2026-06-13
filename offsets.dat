@@ -1,0 +1,13 @@
+{
+  "gameVersion": "0.5.2",
+  "globalRva": 116654664,
+  "chain": [0, 0, 1000, 992],
+  "hpOffset": 1284,
+  "vitalPtr": 776,
+  "maxLife": 52,
+  "maxMana": 140,
+  "mana": 144,
+  "maxES": 204,
+  "es": 208,
+  "aobPattern": "F3 0F 2C D2 45 33 FF 89 97 04 05 00 00"
+}

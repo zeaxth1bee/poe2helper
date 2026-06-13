@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "exe_url": "https://yourserver.com/releases/Mana_1.0.0.zip",
+  "changelog": "Initial release — auto-flask, GGPK mods, radar overlay",
+  "mandatory": false
+}
