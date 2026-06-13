@@ -3,53 +3,51 @@
     {
       "id": "camera_zoom",
       "name": "Camera Zoom",
-      "description": "Increase max camera zoom distance for better overview.",
+      "description": "Increases max camera zoom distance — see more of the map.",
       "category": "visual",
-      "size_kb": 56,
+      "size_kb": 57,
       "variants": [
-        { "id": "zoom40", "label": "x40", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods/zoom40.ggpx" },
-        { "id": "zoom60", "label": "x60", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods/zoom60.ggpx" },
-        { "id": "zoom80", "label": "x80", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods/zoom80.ggpx" }
+        { "id": "zoom", "label": "Install", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods_zips/camera_zoom.zip" }
       ]
     },
     {
-      "id": "minimap",
-      "name": "Minimap Transparency",
-      "description": "Makes the minimap see-through for better map visibility while open.",
+      "id": "minimap_reveal",
+      "name": "Minimap Reveal",
+      "description": "Removes fog of war from the minimap — see the entire map layout.",
       "category": "visual",
-      "size_kb": 3,
+      "size_kb": 2,
       "variants": [
-        { "id": "transparent", "label": "Transparent", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods/minimap.ggpx" }
+        { "id": "reveal", "label": "Install", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods_zips/minimap_reveal.zip" }
       ]
     },
     {
-      "id": "remove_corpses",
-      "name": "Remove Corpses",
-      "description": "Deletes corpse models after death — cleaner screen, better FPS.",
+      "id": "monster_hp_bars",
+      "name": "Monster HP Bars",
+      "description": "Always show monster health bars above enemies.",
+      "category": "ui",
+      "size_kb": 2,
+      "variants": [
+        { "id": "on", "label": "Install", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods_zips/monster_hp_bars.zip" }
+      ]
+    },
+    {
+      "id": "no_loading_screen",
+      "name": "No Loading Screen",
+      "description": "Skips the loading screen between areas for faster transitions.",
       "category": "performance",
       "size_kb": 2,
       "variants": [
-        { "id": "off", "label": "Remove", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods/corpses.ggpx" }
+        { "id": "skip", "label": "Install", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods_zips/no_loading_screen.zip" }
       ]
     },
     {
-      "id": "raging_spirits",
-      "name": "No Raging Spirits",
-      "description": "Disables SRS particles for less screen clutter on summoner builds.",
+      "id": "atlas_fog",
+      "name": "Remove Atlas Fog",
+      "description": "Removes fog effects on the atlas and endgame maps for cleaner visuals.",
       "category": "visual",
-      "size_kb": 7,
+      "size_kb": 13,
       "variants": [
-        { "id": "off", "label": "Disable", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods/spirits.ggpx" }
-      ]
-    },
-    {
-      "id": "colored_stats",
-      "name": "Colored Item Stats",
-      "description": "Color-codes item affixes in tooltips — red=bad, green=good, blue=crafted.",
-      "category": "ui",
-      "size_kb": 5100,
-      "variants": [
-        { "id": "on", "label": "Enable", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods/stats.ggpx" }
+        { "id": "off", "label": "Install", "url": "https://raw.githubusercontent.com/zeaxth1bee/poe2helper/main/mods_zips/atlas_fog.zip" }
       ]
     }
   ]
