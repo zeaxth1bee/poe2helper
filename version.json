@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "exe_url": "https://github.com/zeaxth1bee/poe2helper/releases/download/v1.0.0/Mana_v1.0.0.zip",
-  "changelog": "Initial release — auto-flask, GGPK mods, radar overlay, Insert hotkey",
+  "changelog": "Auto-flask, GGPK mods, Radar overlay, Insert hotkey, self-extracting bundle",
   "mandatory": false
 }
