@@ -1,0 +1,56 @@
+{
+  "mods": [
+    {
+      "id": "camera_zoom",
+      "name": "Camera Zoom",
+      "description": "Increases maximum camera zoom distance. Choose your level.",
+      "category": "visual",
+      "size_kb": 56,
+      "variants": [
+        { "id": "zoom40", "label": "Zoom x40", "url": "https://github.com/zeaxth1bee/poe2helper/releases/download/mods/zoom40.ggpx" },
+        { "id": "zoom60", "label": "Zoom x60", "url": "https://github.com/zeaxth1bee/poe2helper/releases/download/mods/zoom60.ggpx" },
+        { "id": "zoom80", "label": "Zoom x80", "url": "https://github.com/zeaxth1bee/poe2helper/releases/download/mods/zoom80.ggpx" }
+      ]
+    },
+    {
+      "id": "minimap",
+      "name": "Minimap Transparency",
+      "description": "Makes the minimap more transparent for better visibility.",
+      "category": "visual",
+      "size_kb": 50,
+      "variants": [
+        { "id": "minimap_transparent", "label": "More Transparent", "url": "https://github.com/zeaxth1bee/poe2helper/releases/download/mods/minimap.ggpx" }
+      ]
+    },
+    {
+      "id": "remove_corpses",
+      "name": "Remove Corpses",
+      "description": "Removes corpse models for better performance and visibility.",
+      "category": "performance",
+      "size_kb": 45,
+      "variants": [
+        { "id": "corpses_off", "label": "Remove Corpses", "url": "https://github.com/zeaxth1bee/poe2helper/releases/download/mods/corpses.ggpx" }
+      ]
+    },
+    {
+      "id": "raging_spirits",
+      "name": "Disable Raging Spirits",
+      "description": "Removes raging spirits visual effects for less screen clutter.",
+      "category": "visual",
+      "size_kb": 7,
+      "variants": [
+        { "id": "spirits_off", "label": "Disable", "url": "https://github.com/zeaxth1bee/poe2helper/releases/download/mods/spirits.ggpx" }
+      ]
+    },
+    {
+      "id": "colored_stats",
+      "name": "Colored Stats",
+      "description": "Adds color coding to item stat tooltips for better readability.",
+      "category": "ui",
+      "size_kb": 5100,
+      "variants": [
+        { "id": "stats_color", "label": "Enable", "url": "https://github.com/zeaxth1bee/poe2helper/releases/download/mods/stats.ggpx" }
+      ]
+    }
+  ]
+}
